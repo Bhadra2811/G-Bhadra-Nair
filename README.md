@@ -1,7 +1,7 @@
 
 [![](https://visitcount.itsvg.in/api?id=Bhadra2811&label=Profile%20Views&color=0&icon=0&pretty=false)](https://visitcount.itsvg.in)
 
-![Github profile tr](https://github.com/user-attachments/assets/290506dc-a4a2-484f-9fc7-408f6986e2bc)
+<!-- ![Github profile tr](https://github.com/user-attachments/assets/290506dc-a4a2-484f-9fc7-408f6986e2bc) -->
 <h3 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hey+Developers;+I'm+G+Bhadra+nair;I'm+From+Kerala,+India" />
 </h3>
