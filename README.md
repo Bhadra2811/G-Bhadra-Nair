@@ -66,8 +66,8 @@ I'm excited to learn and contribute while gaining hands-on experience in softwar
 <div align="center">
   <h3> MY CONTRIBUTIONS </h3>
 
-  <!-- ![snake gif](https://github.com/Bhadra2811/G-Bhadra-nair/blob/output/github-contribution-grid-snake-dark.svg)
-  -->
+  ![snake gif](https://github.com/Bhadra2811/G-Bhadra-nair/blob/output/github-contribution-grid-snake-dark.svg)
+
 </div>
 
 ![github troll](https://github.com/user-attachments/assets/a293a433-f07a-4daf-95c0-7b7192e12f4b)
